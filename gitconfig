@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = neilpulcyn@hotmail.co.uk
+	name = Neil Pulcyn
